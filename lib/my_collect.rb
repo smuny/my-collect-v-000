@@ -4,4 +4,3 @@ collection do |lang|
   lang.upcase
 end
 end
-
